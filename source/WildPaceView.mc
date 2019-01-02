@@ -9,8 +9,9 @@ class WildPaceView extends WatchUi.SimpleDataField {
 
   function compute(info) {
     var animals = getAnimals;
-    var currentSpeed = 0;
+    var currentSpeed = 0.0;
 
+    // Get the current speed in km/h
     if (info.currentSpeed != null){
       currentSpeed = info.currentSpeed * 3.6;
     }
@@ -25,8 +26,8 @@ class WildPaceView extends WatchUi.SimpleDataField {
 
 function getAnimals() {
   var animals = [
-    new Animal("Coral",0.0),
-    new Animal("Garden Snail",.1),
+    new Animal("Coral",0),
+    new Animal("Garden Snail",0.1),
     new Animal("Eel",4),
     new Animal("HouseFly",7.2),
     new Animal("Mouse",13),
