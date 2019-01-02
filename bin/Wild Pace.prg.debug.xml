@@ -6,47 +6,22 @@
 <entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="3" lineNum="7" pc="268435478" symbol="initialize"/>
 <entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="10" pc="268435492" symbol="compute"/>
 <entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="12" pc="268435496" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="13" pc="268435517" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="14" pc="268435524" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="16" pc="268435531" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="16" pc="268435544" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="18" pc="268435557" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="20" pc="268435567" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="21" pc="268435611" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="22" pc="268435655" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="23" pc="268435699" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="24" pc="268435743" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="25" pc="268435787" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="26" pc="268435831" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="27" pc="268435875" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="28" pc="268435919" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="29" pc="268435963" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="30" pc="268436007" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="31" pc="268436051" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="32" pc="268436095" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="33" pc="268436139" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="34" pc="268436183" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="35" pc="268436227" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="36" pc="268436271" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="37" pc="268436315" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="38" pc="268436359" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="39" pc="268436403" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="40" pc="268436447" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="41" pc="268436491" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="44" pc="268436535" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="45" pc="268436559" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="46" pc="268436576" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="47" pc="268436589" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="51" pc="268436608" symbol="compute"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="60" pc="268436612" symbol="initialize"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="61" pc="268436616" symbol="initialize"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="62" pc="268436626" symbol="initialize"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="8" lineNum="5" pc="268436637" symbol="initialize"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="8" lineNum="6" pc="268436641" symbol="initialize"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="9" lineNum="10" pc="268436660" symbol="onStart"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="10" lineNum="14" pc="268436665" symbol="onStop"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="11" lineNum="18" pc="268436670" symbol="getInitialView"/>
-<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="11" lineNum="19" pc="268436674" symbol="getInitialView"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="37" pc="268436384" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="40" pc="268436391" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="41" pc="268436404" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="44" pc="268436423" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="45" pc="268436447" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="46" pc="268436464" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="4" lineNum="50" pc="268436492" symbol="compute"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="59" pc="268436508" symbol="initialize"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="60" pc="268436512" symbol="initialize"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceView.mc" id="6" lineNum="61" pc="268436522" symbol="initialize"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="8" lineNum="5" pc="268436533" symbol="initialize"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="8" lineNum="6" pc="268436537" symbol="initialize"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="9" lineNum="10" pc="268436556" symbol="onStart"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="10" lineNum="14" pc="268436561" symbol="onStop"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="11" lineNum="18" pc="268436566" symbol="getInitialView"/>
+<entry filename="C:\\Users\\matt\\eclipse-workspace\\Wild Pace\\source\\WildPaceApp.mc" id="11" lineNum="19" pc="268436570" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
@@ -73,16 +48,14 @@
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436608" name="i" stackId="6" startPc="268436559"/>
-<entry endPc="268436611" name="ret" stackId="3" startPc="268435496"/>
-<entry endPc="268436611" name="currentSpeed" stackId="4" startPc="268435496"/>
-<entry endPc="268436611" name="animals" stackId="2" startPc="268435496"/>
-<entry endPc="268436611" name="speedKmh" stackId="5" startPc="268435496"/>
-<entry endPc="268436612" name="info" stackId="1" startPc="268435492"/>
-<entry endPc="268436637" name="Name" stackId="1" startPc="268436612"/>
-<entry endPc="268436637" name="Speed" stackId="2" startPc="268436612"/>
-<entry endPc="268436665" name="state" stackId="1" startPc="268436660"/>
-<entry endPc="268436670" name="state" stackId="1" startPc="268436665"/>
+<entry endPc="268436492" name="i" stackId="4" startPc="268436447"/>
+<entry endPc="268436507" name="currentSpeed" stackId="3" startPc="268435496"/>
+<entry endPc="268436507" name="animals" stackId="2" startPc="268435496"/>
+<entry endPc="268436508" name="info" stackId="1" startPc="268435492"/>
+<entry endPc="268436533" name="Name" stackId="1" startPc="268436508"/>
+<entry endPc="268436533" name="Speed" stackId="2" startPc="268436508"/>
+<entry endPc="268436561" name="state" stackId="1" startPc="268436556"/>
+<entry endPc="268436566" name="state" stackId="1" startPc="268436561"/>
 </localVars>
 <annotations/>
 <functions>

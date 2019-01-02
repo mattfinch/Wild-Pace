@@ -7,6 +7,14 @@
             <iq:product id="edge_1000"/>
             <iq:product id="edge_520"/>
             <iq:product id="edgeexplore"/>
+            <iq:product id="fr230"/>
+            <iq:product id="fr235"/>
+            <iq:product id="fr630"/>
+            <iq:product id="fr645"/>
+            <iq:product id="fr645m"/>
+            <iq:product id="fr735xt"/>
+            <iq:product id="fr920xt"/>
+            <iq:product id="fr935"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages>
