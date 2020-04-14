@@ -13,13 +13,13 @@ class WildPaceView extends WatchUi.SimpleDataField {
         new Animal("Coral",0),
         new Animal("Garden Snail",0.1),
         new Animal("Eel",4),
-        new Animal("HouseFly",7.2),
+        new Animal("House Fly",7.2),
         new Animal("Mouse",13),
         new Animal("Pig",17.7),
         new Animal("Squirrel",20),
         new Animal("Brown Bear",25),
         new Animal("Penguin",30),
-        new Animal("Dolphin",35),
+        new Animal("Black Mamba",32.2),
         new Animal("Elephant",40),
         new Animal("Barracuda",44),
         new Animal("Giraffe",52),
@@ -42,7 +42,7 @@ class WildPaceView extends WatchUi.SimpleDataField {
     }
 
     for( var i = 0; i < animals.size(); i++ ) {
-        if (currentSpeed <= animals[i].speed) {
+        if (currentSpeed >= animals[i].speed and currentSpeed <= animals[i+1].speed) {
             return animals[i].name;
         }
     }
